@@ -1,3 +1,7 @@
+# Project related personal files
+pw_hash.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
